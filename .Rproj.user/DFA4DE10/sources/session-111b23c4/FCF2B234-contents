@@ -1,0 +1,26 @@
+
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Isabella Ranum"
+  navbar:
+    background: "#14243A"
+    foreground: "#FFFFFF"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: about.qmd
+        text: About
+    right:
+      - icon: github
+        href: https://github.com/IsabellaRanum/consulting-portfolio
+
+format:
+  html:
+    theme: cosmo
+    toc: false
+    linkcolor: "#245A81"

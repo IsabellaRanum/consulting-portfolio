@@ -1,0 +1,33 @@
+
+---
+title: "A little about me!"
+---
+
+## Who I Am 
+
+I'm a University of Sydney Master of Management graduate with a Distinction average, alongside degrees in Law and Biological Science from the University of Auckland.  I'm currently based in Sydney and am open to relocating to Melbourne or London.
+
+My background combines commercial and quantitative analysis with professional experience in legal research, stakeholder management and project delivery.
+
+During my Master's, I led a live consulting engagement for an Australian business, conducting customer research and competitor analysis to develop commercial growth recommendations presented to senior executives.
+
+I also have experience using R, Excel and statistical modelling to analyse complex datasets and communicate findings to non-technical audiences.
+
+## What I'm Interested In
+
+My interests include:
+
+- Commercial strategy and business growth
+- Technology and innovation
+- Market research and customer behaviour
+- Data analytics and evidence-based decision-making
+
+## About This Portfolio
+
+This portfolio documents independent research projects where I apply quantitative analysis and commercial reasoning to real-world business questions.
+
+Each project aims to move beyond describing data to evaluating commercial implications and developing practical recommendations.
+
+## My Personal Interests
+
+Outside of work, I'm a massive F1 fan having been lucky enough to attend 4 grand prixs and a big reader with an interest in scifi and historical fiction novels.  

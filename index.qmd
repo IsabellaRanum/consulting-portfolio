@@ -1,0 +1,72 @@
+---
+title: "Home"
+title-block-banner: false
+title-block-style: false
+page-layout: full
+---
+
+::::::::: container-lg
+# Independent Research & Commercial Strategy
+
+**Isabella Ranum**
+
+Exploring commercial strategy and data-driven decision-making through independent research projects.
+
+My work combines quantitative analysis, modelling and structured problem-solving to examine real-world business challenges and develop practical recommendations.
+
+[Explore Projects](projects.qmd){.btn .btn-primary}
+
+------------------------------------------------------------------------
+
+## Featured Research
+
+:::: card
+::: card-body
+### The Price of Access
+
+#### Evaluating the Australian Grand Prix's New Ticketing Strategy
+
+**Commercial Strategy \| Pricing \| Revenue Modelling**
+
+An independent assessment of the Australian Grand Prix's revised ticketing and membership strategy, exploring its implications for revenue, customer demand and long-term fan loyalty.
+
+Using Excel financial modelling and R-based analysis, this project will evaluate the commercial trade-offs associated with the new model.
+
+**Status:** Research in progress
+:::
+::::
+
+------------------------------------------------------------------------
+
+## Areas of Interest
+
+:::::: columns
+::: {.column width="33%"}
+### Commercial Strategy
+
+Market analysis, competitive positioning and business growth.
+:::
+
+::: {.column width="33%"}
+### Pricing & Revenue
+
+Financial modelling, pricing strategy and commercial optimisation.
+:::
+
+::: {.column width="33%"}
+### Data Analytics
+
+Quantitative research, statistical analysis and data visualisation.
+:::
+::::::
+
+------------------------------------------------------------------------
+
+## About
+
+I hold a Master of Management from the University of Sydney, alongside degrees in Law and Biological Science from the University of Auckland.
+
+My interests include strategy consulting, commercial analysis and using data to inform business decisions.
+
+[Learn More](about.qmd){.btn .btn-outline-primary}
+:::::::::
