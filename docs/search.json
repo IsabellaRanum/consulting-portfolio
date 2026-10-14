@@ -1,17 +1,52 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
-    "section": "",
-    "text": "Isabella Ranum\nExploring commercial strategy and data-driven decision-making through independent research projects.\nMy work combines quantitative analysis, modelling and structured problem-solving to examine real-world business challenges and develop practical recommendations.\nExplore Projects\n\n\n\n\n\n\n\n\nCommercial Strategy | Pricing | Revenue Modelling\nAn independent assessment of the Australian Grand Prix’s revised ticketing and membership strategy, exploring its implications for revenue, customer demand and long-term fan loyalty.\nUsing Excel financial modelling and R-based analysis, this project will evaluate the commercial trade-offs associated with the new model.\nStatus: Research in progress\n\n\n\n\n\n\n\n\n\n\n\nMarket analysis, competitive positioning and business growth.\n\n\n\n\nFinancial modelling, pricing strategy and commercial optimisation.\n\n\n\n\nQuantitative research, statistical analysis and data visualisation.\n\n\n\n\n\n\n\nI hold a Master of Management from the University of Sydney, alongside degrees in Law and Biological Science from the University of Auckland.\nMy interests include strategy consulting, commercial analysis and using data to inform business decisions.\nLearn More"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "A little about me!",
     "section": "",
     "text": "I’m a University of Sydney Master of Management graduate with a Distinction average, alongside degrees in Law and Biological Science from the University of Auckland. I’m currently based in Sydney and am open to relocating to Melbourne or London.\nMy background combines commercial and quantitative analysis with professional experience in legal research, stakeholder management and project delivery.\nDuring my Master’s, I led a live consulting engagement for an Australian business, conducting customer research and competitor analysis to develop commercial growth recommendations presented to senior executives.\nI also have experience using R, Excel and statistical modelling to analyse complex datasets and communicate findings to non-technical audiences."
+  },
+  {
+    "objectID": "about.html#who-i-am",
+    "href": "about.html#who-i-am",
+    "title": "A little about me!",
+    "section": "",
+    "text": "I’m a University of Sydney Master of Management graduate with a Distinction average, alongside degrees in Law and Biological Science from the University of Auckland. I’m currently based in Sydney and am open to relocating to Melbourne or London.\nMy background combines commercial and quantitative analysis with professional experience in legal research, stakeholder management and project delivery.\nDuring my Master’s, I led a live consulting engagement for an Australian business, conducting customer research and competitor analysis to develop commercial growth recommendations presented to senior executives.\nI also have experience using R, Excel and statistical modelling to analyse complex datasets and communicate findings to non-technical audiences."
+  },
+  {
+    "objectID": "about.html#what-im-interested-in",
+    "href": "about.html#what-im-interested-in",
+    "title": "A little about me!",
+    "section": "What I’m Interested In",
+    "text": "What I’m Interested In\nMy interests include:\n\nCommercial strategy and business growth\nTechnology and innovation\nMarket research and customer behaviour\nData analytics and evidence-based decision-making"
+  },
+  {
+    "objectID": "about.html#about-this-portfolio",
+    "href": "about.html#about-this-portfolio",
+    "title": "A little about me!",
+    "section": "About This Portfolio",
+    "text": "About This Portfolio\nThis portfolio documents independent research projects where I apply quantitative analysis and commercial reasoning to real-world business questions.\nEach project aims to move beyond describing data to evaluating commercial implications and developing practical recommendations."
+  },
+  {
+    "objectID": "about.html#my-personal-interests",
+    "href": "about.html#my-personal-interests",
+    "title": "A little about me!",
+    "section": "My Personal Interests",
+    "text": "My Personal Interests\nOutside of work, I’m a massive F1 fan having been lucky enough to attend 4 grand prixs and a big reader with an interest in scifi and historical fiction novels."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A collection of independent research projects exploring commercial strategy and data-driven decision-making.\n\n\nStatus: Research in progress\nAn independent commercial analysis of the Australian Grand Prix’s revised ticketing and membership strategy.\nThe project will examine the implications for revenue, customer demand and long-term fan loyalty, using Excel financial modelling and R.\nTools: Excel, R"
+  },
+  {
+    "objectID": "projects.html#independent-strategy-analytics-projects",
+    "href": "projects.html#independent-strategy-analytics-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "A collection of independent research projects exploring commercial strategy and data-driven decision-making.\n\n\nStatus: Research in progress\nAn independent commercial analysis of the Australian Grand Prix’s revised ticketing and membership strategy.\nThe project will examine the implications for revenue, customer demand and long-term fan loyalty, using Excel financial modelling and R.\nTools: Excel, R"
   },
   {
     "objectID": "index.html#featured-research",
@@ -33,40 +68,5 @@
     "title": "Home",
     "section": "About",
     "text": "About\nI hold a Master of Management from the University of Sydney, alongside degrees in Law and Biological Science from the University of Auckland.\nMy interests include strategy consulting, commercial analysis and using data to inform business decisions.\nLearn More"
-  },
-  {
-    "objectID": "about.html#about-me",
-    "href": "about.html#about-me",
-    "title": "About",
-    "section": "",
-    "text": "I’m a University of Sydney Master of Management graduate with a Distinction average, alongside degrees in Law and Biological Science from the University of Auckland.\nMy background combines commercial and quantitative analysis with professional experience in legal research, stakeholder management and project delivery.\nDuring my Master’s, I led a live consulting engagement for an Australian business, conducting customer research and competitor analysis to develop commercial growth recommendations presented to senior executives.\nI also have experience using R, Excel and statistical modelling to analyse complex datasets and communicate findings to non-technical audiences."
-  },
-  {
-    "objectID": "about.html#what-im-interested-in",
-    "href": "about.html#what-im-interested-in",
-    "title": "A little about me!",
-    "section": "What I’m Interested In",
-    "text": "What I’m Interested In\nMy interests include:\n\nCommercial strategy and business growth\nTechnology and innovation\nMarket research and customer behaviour\nData analytics and evidence-based decision-making"
-  },
-  {
-    "objectID": "about.html#about-this-portfolio",
-    "href": "about.html#about-this-portfolio",
-    "title": "A little about me!",
-    "section": "About This Portfolio",
-    "text": "About This Portfolio\nThis portfolio documents independent research projects where I apply quantitative analysis and commercial reasoning to real-world business questions.\nEach project aims to move beyond describing data to evaluating commercial implications and developing practical recommendations."
-  },
-  {
-    "objectID": "about.html#who-i-am",
-    "href": "about.html#who-i-am",
-    "title": "A little about me!",
-    "section": "",
-    "text": "I’m a University of Sydney Master of Management graduate with a Distinction average, alongside degrees in Law and Biological Science from the University of Auckland. I’m currently based in Sydney and am open to relocating to Melbourne or London.\nMy background combines commercial and quantitative analysis with professional experience in legal research, stakeholder management and project delivery.\nDuring my Master’s, I led a live consulting engagement for an Australian business, conducting customer research and competitor analysis to develop commercial growth recommendations presented to senior executives.\nI also have experience using R, Excel and statistical modelling to analyse complex datasets and communicate findings to non-technical audiences."
-  },
-  {
-    "objectID": "about.html#my-personal-interests",
-    "href": "about.html#my-personal-interests",
-    "title": "A little about me!",
-    "section": "My Personal Interests",
-    "text": "My Personal Interests\nOutside of work, I’m a massive F1 fan having been lucky enough to attend 4 grand prixs and a big reader with an interest in scifi and historical fiction novels."
   }
 ]
